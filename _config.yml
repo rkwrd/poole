@@ -11,11 +11,11 @@ title:            Poole
 tagline:          The Jekyll Butler
 url:              http://getpoole.com
 paginate:         1
-baseurl:          /
+baseurl:          http://rkwrd.github.io/poole/
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           AL
+  url:            http://www.google.com
+  email:          plonk@gmail.com
 
 # Custom vars
 version:          1.0.0
